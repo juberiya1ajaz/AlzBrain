@@ -1,0 +1,144 @@
+{
+    "Header": {
+      "title": "Know Your Memory Status",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    },
+    "About": {
+      "paragraph": "From Moca Test to Alzheimer Detection to consultancy with doctors we have it all",
+      "Why": [
+        " Launch platform with MoCA-based initial detection.",
+        "Gather user data for NLP improvements.",
+        "Provide educational resources for cognitive health."
+      ],
+      "Why2": [
+        "Implement MRI-based predictive model for enhanced detection.",
+        "Combine MoCA, NLP, and MRI-based detection.",
+        "Enable real-time monitoring of cognitive health."
+      ]
+    },
+    "Gallery": [
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/07-large.jpg",
+        "smallImage": "img/portfolio/07-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/08-large.jpg",
+        "smallImage": "img/portfolio/08-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/09-large.jpg",
+        "smallImage": "img/portfolio/09-small.jpg"
+      }
+    ],
+    "Testimonials": [
+      {
+        
+        "img": "img/testimonials/01.jpg",
+        "text": "\"I was amazed by the chatbot's ease of use. It made cognitive assessments feel like a casual conversation. The accuracy in early detection was reassuring.Connecting with doctors for consultation was a game-changer. This  application is a true lifeline for anyone concerned aboutAlzheimer's.\"",
+        "name": "Emily W"
+      },
+      {
+        "img": "img/testimonials/02.jpg",
+        "text": "\"As someone who cares deeply about the accuracy of healthcare tools, this application surpassed my expectations. The predictive capabilities using MRI and the MoCA test were impressive. It's a revolutionary step towards proactive Alzheimer's management\"",
+        "name": "Johnathan "
+      },
+      {
+        "img": "img/testimonials/03.jpg",
+        "text": "\"I've been using this application to track my cognitive health, and it's been a great source of reassurance. The chatbot is user-friendly, I can't recommend it enough for anyone with Alzheimer's concerns.It's a revolutionary step towards proactive Alzheimer's management\"",
+        "name": "Reeta"
+      },
+      {
+        "img": "img/testimonials/04.jpg",
+        "text": "\"This project has not only provided me with early detection but also a sense of control over my cognitive health. The combination of NLP and predictive tools has been invaluable. The chatbot is a unique blend of innovation and compassion.\"",
+        "name": "Tommy"
+      },
+      {
+        "img": "img/testimonials/05.jpg",
+        "text": "\"The use of MRI and MoCA test for prediction is a game-changer. This application has given me insights and peace of mind like no other. It's a step forward in Alzheimer's care that every individual should explore.\"",
+        "name": "Sarah"
+      },
+      {
+        "img": "img/testimonials/06.jpg",
+        "text": "\"This application made me feel heard and understood. The accuracy in diagnosis and the ability to connect with healthcare professionals make it a true ally in Alzheimer's prevention.\"",
+        "name": "Tiffany"
+      }
+    ],
+    "Team": [
+      {
+        "img": "img/team/01.jpg",
+        "name": "John ",
+        "job": "Neurosurgeon"
+      },
+      {
+        "img": "img/team/02.jpg",
+        "name": "Mike ",
+        "job": "Neuro Specialist"
+      },
+      {
+        "img": "img/team/03.jpg",
+        "name": "Jane",
+        "job": "Neurologist"
+      },
+      {
+        "img": "img/team/04.jpg",
+        "name": "Karen",
+        "job": "Neuro Specialist"
+      }
+    ],
+    "Features": [
+      {
+        "icon": "fa fa-comments-o",
+        "title": "Chatbot",
+        "text": "A user-friendly, AI-powered chatbot for engaging cognitive assessments and support, making Alzheimer's detection accessible and intuitive"
+      },
+      {
+        "icon": "fa fa-bullhorn",
+        "title": "Accuracy",
+        "text": "Leveraging cutting-edge NLP and AI technology for precise and reliable Alzheimer's diagnosis, ensuring early detection and intervention."
+      },
+      {
+        "icon": "fa fa-group",
+        "title": "Connect with Doctors",
+        "text": "Seamlessly connect with healthcare professionals for expert consultations and personalized guidance, enhancing the quality of care and support."
+      },
+      {
+        "icon": "fa fa-magic",
+        "title": "Prediction of Alzeihmer",
+        "text": "MRI and  MoCA test to provide predictive insights, enhancing diagnostic accuracy and comprehensive Alzheimer's disease assessment."
+      }
+    ]
+  }
+  
